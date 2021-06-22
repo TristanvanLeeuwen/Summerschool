@@ -1,7 +1,6 @@
-# Synoptics Summerschool -- Machine Learning and Compressed Sensing for Inverse Problems
+# Mini Course: Machine Learning and Compressed Sensing for Inverse Problems
 
-Lectures and exercises on *Machine Learning and Compressed Sensing for Inverse Problems* presented on Wednesday June 23, 2021 at the [SYNOPTICS](
-https://optics.tudelft.nl/index.php/optics-research-group/research/projects/synoptics/) summerschool.
+Lectures and exercises on *Machine Learning and Compressed Sensing for Inverse Problems*.
 
 ## Contents
 
@@ -32,6 +31,11 @@ Regularisation can be tailored more specifically to a particular class of images
 ### MachineLearning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TristanvanLeeuwen/Summerschool/blob/main/MachineLearning.ipynb)
 
 Recently, machine learning methods have gained popularity in solving inverse problems. In this module, we explore some of the basics.
+
+## Presented at
+
+*  The [SYNOPTICS](
+https://optics.tudelft.nl/index.php/optics-research-group/research/projects/synoptics/) summerschool, Wednesday June 23, 2021.
 
 ## License
 
