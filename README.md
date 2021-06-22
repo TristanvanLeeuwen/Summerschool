@@ -5,7 +5,7 @@ https://optics.tudelft.nl/index.php/optics-research-group/research/projects/syno
 
 ## Contents
 
-* Inverse Problems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/TristanvanLeeuwen/Summerschool/InverseProblems.ipynb)
+* Inverse Problems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/TristanvanLeeuwen/Summerschool/blob/main/InverseProblems.ipynb)
 
 
 ## License
