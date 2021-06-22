@@ -17,6 +17,10 @@ A classical way to resolve ill-posedness is Tikhonov regularisation. In the cont
 
 For better performance, non-linear filters may sometimes be preferable over linear ones. A popular non-linear filter results from Total Variation regularisation.
 
+### Compressed Sensing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TristanvanLeeuwen/Summerschool/blob/main/CompressedSensing.ipynb)
+
+Sparisity turns out to be a key ingredient in non-linear filters. In this module we explore the connections (and differences) between sparse regularisation and compressed sensing.
+
 ### Optimisation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TristanvanLeeuwen/Summerschool/blob/main/Optimisation.ipynb)
 
 Ultimately, regularised deconvolution requires solving an optimisation problem. We discuss the basic proximal gradient method and how denoising can be used as part of a regularised deconvolution problem.
